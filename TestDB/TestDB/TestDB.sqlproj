@@ -60,5 +60,6 @@
   </ItemGroup>
   <ItemGroup>
     <Build Include="new_t.sql" />
+    <Build Include="Updated_T.sql" />
   </ItemGroup>
 </Project>
